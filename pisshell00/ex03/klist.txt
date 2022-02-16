@@ -1,0 +1,5 @@
+Credentials cache: API:13E8ADD5-4495-4F56-AE10-EF1FDDD5616B
+        Principal: umartin-@42URDULIZ.COM
+
+  Issued                Expires               Principal
+Jun  8 18:53:04 2021  Jun  9 04:52:57 2021  krbtgt/42URDULIZ.COM@42URDULIZ.COM
